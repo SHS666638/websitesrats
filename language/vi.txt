@@ -1,0 +1,8 @@
+# Ban Dich boi VietnamTV #
+
+[ Main: 
+  { Author:{username} 
+    Description:{Fall}{Done}
+    Language:./language/vi.txt
+  }
+]
